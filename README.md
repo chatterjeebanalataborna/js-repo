@@ -1,2 +1,2 @@
 # js-repo
-code repo for javascript practice
+code repo for frontend devlopment(html,css,js) practice
