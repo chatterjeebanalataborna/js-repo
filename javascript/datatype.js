@@ -4,4 +4,6 @@ let email="chatterjeebanalata46@gmail.com";
 let accountCity="kolkata";
 let accountState="West Bengal";
 let phone=8276879864;
-console.table([accountId,accountname,email,phone,accountCity,accountState]);
+//undefined
+let accountprofession;
+console.table([accountId,accountname,email,phone,accountprofession,accountCity,accountState]);
